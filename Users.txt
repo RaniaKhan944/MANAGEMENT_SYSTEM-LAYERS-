@@ -1,0 +1,3 @@
+AdminUser,123,ADMIN
+TherapistUser,456,THERAPIST
+PatientUser,789,PATIENT
